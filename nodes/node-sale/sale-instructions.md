@@ -44,7 +44,7 @@ If you have a promo code to use, click on “Use promo code” and enter your co
 
 > _Note that sale discounts from using a promo code will not be automatically applied during purchase. Cash rebates will be airdropped to your purchase wallets upon confirmation your referrer has also purchased a node._
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 5 - Purchase your Node** <a href="#step-5-purchase-your-node" id="step-5-purchase-your-node"></a>
 
