@@ -8,6 +8,6 @@ It is envisaged that the supply of the $SOPH token will be allocated as follows\
 * **Sophon Foundation**: 25% of the total supply (subject to 12 months cliff and 36 months vesting)
 * **Seed contributors**: 20% of the total supply (subject to 12 months cliff and 24 months vesting)
 * **Advisors**: 5% of the total supply (subject to 12 months cliff and 36 months vesting)
-* **Ecosystem Reserve**: 30% of the total supply
+* **Ecosystem Reserve**: 30% of the total supply for grants and wider ecosystem initiatives&#x20;
 
 \*Final tokenomics, allocation and vesting schedule of the $SOPH token subject to change until  the launch of Sophon, which is expected to occur in Q3 2024.
