@@ -36,7 +36,7 @@ On the Node Sale page (powered by Impossible Finance), choose the tier available
 
 To illustrate, the image below shows a user who has been whitelisted for Tiers 1, 7 and 8 only.
 
-<figure><img src="https://impossible.gitbook.io/~gitbook/image?url=https:%2F%2F2070884675-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Mblc6q3YEdwqoZdnD_v%252Fuploads%252FGxBzmPBAE2SdvKJYe0Zp%252FD%2520-%2520Node%2520Sale%2520%281%29.png%3Falt=media%26token=900a44e5-aca8-4142-b0a2-42002ac454ec&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2b10c95ff2786d1362e58e3c6eec6facfc54339ef87db9549b8c34aad57ed0fb" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://impossible.gitbook.io/~gitbook/image?url=https:%2F%2F2070884675-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Mblc6q3YEdwqoZdnD_v%252Fuploads%252FGxBzmPBAE2SdvKJYe0Zp%252FD%2520-%2520Node%2520Sale%2520%281%29.png%3Falt=media%26token=900a44e5-aca8-4142-b0a2-42002ac454ec&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2b10c95ff2786d1362e58e3c6eec6facfc54339ef87db9549b8c34aad57ed0fb" alt=""><figcaption><p>Whitelisted user</p></figcaption></figure>
 
 ### Step 4 - **Input promo code if you have one** <a href="#step-4-input-promo-code-if-you-have-one" id="step-4-input-promo-code-if-you-have-one"></a>
 
@@ -44,7 +44,7 @@ If you have a promo code to use, click on “Use promo code” and enter your co
 
 > _Note that sale discounts from using a promo code will not be automatically applied during purchase. Cash rebates will be airdropped to your purchase wallets upon confirmation your referrer has also purchased a node._
 
-<figure><img src="https://impossible.gitbook.io/~gitbook/image?url=https:%2F%2F2070884675-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Mblc6q3YEdwqoZdnD_v%252Fuploads%252FADG9z39pTkjmtaXDWycL%252Fimage%2520%281%29.png%3Falt=media%26token=43c44502-4535-4d2a-b003-275f226002a9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a86189f4a3cc727ff2200ece0a1cc3ac9e1cdcf6e925930dbf99e31922d794fc" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://impossible.gitbook.io/~gitbook/image?url=https:%2F%2F2070884675-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Mblc6q3YEdwqoZdnD_v%252Fuploads%252FADG9z39pTkjmtaXDWycL%252Fimage%2520%281%29.png%3Falt=media%26token=43c44502-4535-4d2a-b003-275f226002a9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a86189f4a3cc727ff2200ece0a1cc3ac9e1cdcf6e925930dbf99e31922d794fc" alt=""><figcaption><p>Promo code user</p></figcaption></figure>
 
 ### **Step 5 - Purchase your Node** <a href="#step-5-purchase-your-node" id="step-5-purchase-your-node"></a>
 
