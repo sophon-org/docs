@@ -6,9 +6,9 @@ description: >-
 
 # Sale instructions
 
-## How to participate Whitelist Node Sale on Impossible Finance
+## How to participate in the Node Sale on Impossible Finance
 
-This tutorial concerns everyone who has been granted a whitelist spots.
+This tutorial concerns anyone who's interested in participating in the public sale.
 
 ### **Step 1 - Connect wallet on Node Sale Page** <a href="#step-1-connect-wallet-on-node-sale-page" id="step-1-connect-wallet-on-node-sale-page"></a>
 
@@ -31,10 +31,6 @@ The Sophon Node sale is happening on ZkSync, and the supported purchase token is
 _Note: All images used are for illustrative purposes only. The actual sale page may differ from the images displayed._
 
 On the Node Sale page (powered by Impossible Finance), choose the tier available to you and click on "Purchase".
-
-**Important:** If your wallet has been whitelisted, you will **only be able to see the tier you are whitelisted for.**
-
-To illustrate, the image below shows a user who has been whitelisted for Tiers 1, 7 and 8 only.
 
 <figure><img src="../../.gitbook/assets/image.jpg" alt=""><figcaption></figcaption></figure>
 
