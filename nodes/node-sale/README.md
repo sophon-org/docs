@@ -4,7 +4,8 @@
 
 * Node sale launch date: April 30th 2024
 * 200,000 nodes available in a tiered pricing system
-* No cap on the number of nodes one can purchase
+* First 13 tiers are capped as per this [sheet](https://docs.google.com/spreadsheets/d/1ULyfJ9z18Ujq\_AMCNun2d55uZkNZUeqDvm9u127c5bE/edit?usp=sharing).
+* No cap on the number of nodes one can purchase tier 13 and beyond
 * Nodes will be sold on zkSync to minimize spending on gas fees
 * Nodes are non-transferable for one year post-receipt
 * Claiming rewards for operating a node on Sophon will trigger a 3 month lock-up period for those rewards

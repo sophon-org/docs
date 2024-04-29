@@ -20,6 +20,7 @@
 * [Node sale](nodes/node-sale/README.md)
   * [Sale instructions](nodes/node-sale/sale-instructions.md)
   * [zkSync bridging instructions](nodes/node-sale/zksync-bridging-instructions.md)
+  * [Contracts](nodes/node-sale/contracts.md)
   * [Impossible Finance information](https://blog.impossible.finance/introducing-the-sophon-node-sale/)
 
 ## Links
