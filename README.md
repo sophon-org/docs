@@ -1,6 +1,6 @@
 # Introduction
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sophon is an entertainment-focused ecosystem built as a modular rollup leveraging zkSync's Hyperchain technology. As a zkSync hyperchain leveraging the ZK Stack, Sophon is intended to be tailored for any high throughput applications such as artificial intelligence and gaming applications. Sophon facilitates the connection between developers and users, backed by a robust strategic collaboration with ecosystems like zkSync, Beam, Zentry, and Aethir.
 

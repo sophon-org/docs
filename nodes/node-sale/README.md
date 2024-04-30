@@ -12,8 +12,8 @@
 * The node sale is subject to the [node sale terms and conditions](https://sophon.xyz/node-sale-terms)
 * KYC is required to purchase and receive a node
 
-{% content-ref url="sale-instructions.md" %}
-[sale-instructions.md](sale-instructions.md)
+{% content-ref url="sale-instructions/" %}
+[sale-instructions](sale-instructions/)
 {% endcontent-ref %}
 
 {% content-ref url="zksync-bridging-instructions.md" %}
