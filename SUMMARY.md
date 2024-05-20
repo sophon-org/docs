@@ -28,3 +28,8 @@
 
 * [Twitter](https://twitter.com/sophon)
 * [Website](https://sophon.xyz/)
+
+## Developer docs
+
+* [Farming contracts](https://github.com/sophon-org/farming-contracts)
+* [Sherlock contest](https://audits.sherlock.xyz/contests/376)
