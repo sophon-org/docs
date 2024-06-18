@@ -7,6 +7,14 @@ The Sophon Farm is designed to allow users to contribute to Sophon's growth whil
 * Ethereum Mainnet Farming: 6% of the total $SOPH token supply.
 * Sophon Mainnet Farming: 4% of the total $SOPH token supply (Sophon Mainnet Farming rules will be announced before launch).
 
+## Sophon Contract Address
+
+Ethereum Mainnet: 0xeff8e65ac06d7fe70842a4d54959e8692d6ae064 [https://etherscan.io/address/0xeff8e65ac06d7fe70842a4d54959e8692d6ae064](https://etherscan.io/address/0xeff8e65ac06d7fe70842a4d54959e8692d6ae064)
+
+**Important Note:** Always verify the contract address through official Sophon channels before interacting with it.
+
+***
+
 ## Terms and conditions
 
 Participation in the Sophon Farming and the $SOPH airdrop is subject to the [Token Airdrop Terms & Conditions](https://main.staging.farm.sophon.xyz/token-airdrop-terms.html) and any Disclaimers included in the Farming Portal. Note that geographical restrictions apply.
