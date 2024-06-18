@@ -13,6 +13,10 @@
 * [Hyperchains/Hyperscaling](zk-stack/hyperchains-hyperscaling.md)
 * [Validiums](zk-stack/validiums.md)
 
+***
+
+* [Farming & Points Program](farming-and-points-program.md)
+
 ## Nodes
 
 * [Introduction](nodes/introduction.md)
