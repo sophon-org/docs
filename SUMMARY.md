@@ -34,6 +34,6 @@
 * [Farming contracts](https://github.com/sophon-org/farming-contracts)
 * [Sherlock contest](https://audits.sherlock.xyz/contests/376)
 
-## Group 1
+## Farming
 
-* [Farming](group-1/farming.md)
+* [Introduction](farming/introduction.md)
