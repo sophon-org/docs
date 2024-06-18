@@ -15,7 +15,8 @@
 
 ***
 
-* [Farming & Points Program](farming-and-points-program.md)
+* [Farming & Points Program](farming-and-points-program/README.md)
+  * [The Farming Cycle](farming-and-points-program/the-farming-cycle.md)
 
 ## Nodes
 
