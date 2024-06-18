@@ -9,16 +9,16 @@
 
 ## Farming
 
-* [Introduction](farming/introduction/README.md)
-  * [The farming cycle](farming/introduction/the-farming-cycle.md)
-  * [Active pools](farming/introduction/active-pools.md)
-  * [Sophon points (SP) calcuations](farming/introduction/sophon-points-sp-calcuations/README.md)
-    * [Tracking your SP](farming/introduction/sophon-points-sp-calcuations/tracking-your-sp.md)
-    * [SP to $SOPH conversion](farming/introduction/sophon-points-sp-calcuations/sp-to-usdsoph-conversion.md)
-  * [Boosts](farming/introduction/boosts/README.md)
-    * [Activating boosts](farming/introduction/boosts/activating-boosts.md)
-    * [Calculating boosts](farming/introduction/boosts/calculating-boosts.md)
-  * [Withdrawals](farming/introduction/withdrawals.md)
+* [Introduction](farming/introduction.md)
+* [Active pools](farming/active-pools.md)
+* [The farming cycle](farming/the-farming-cycle.md)
+* [Sophon points (SP) calcuations](farming/sophon-points-sp-calcuations/README.md)
+  * [Tracking your SP](farming/sophon-points-sp-calcuations/tracking-your-sp.md)
+  * [SP to $SOPH conversion](farming/sophon-points-sp-calcuations/sp-to-usdsoph-conversion.md)
+* [Boosts](farming/boosts/README.md)
+  * [Activating boosts](farming/boosts/activating-boosts.md)
+  * [Calculating boosts](farming/boosts/calculating-boosts.md)
+* [Withdrawals](farming/withdrawals.md)
 
 ## Nodes
 
