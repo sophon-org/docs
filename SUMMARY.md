@@ -34,7 +34,7 @@
 ## ZK Stack
 
 * [What is ZK Stack?](zk-stack/what-is-zk-stack.md)
-* [Hyperchains/Hyperscaling](zk-stack/hyperchains-hyperscaling.md)
+* [Elastic Chains](zk-stack/elastic-chains.md)
 * [Validiums](zk-stack/validiums.md)
 
 ## Links
