@@ -15,7 +15,7 @@ The Sophon Farm smart contracts offer convenient deposit functions that automati
 * **stAethir**
 * **PEPE**
 * **wBTC**
-* **AZUR**
+* **stAZUR**
 * **USDT**
 
 Following the initial deployment of the farming program, more pools are scheduled to be released.
