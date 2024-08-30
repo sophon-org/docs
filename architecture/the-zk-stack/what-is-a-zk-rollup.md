@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is a ZK Rollup?
 
 Within this elastic chain ecosystem, ZK Rollups play a crucial role. They "roll up" transaction data and submit it to Ethereum, leveraging the security of the base layer while enabling scalability. This connection to Ethereum allows for external verification, ensuring trustless and correct execution of transactions.
