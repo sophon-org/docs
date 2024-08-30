@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Node Types and Rewards
 
 Rewards will be distributed weekly, with a 3-month lock-up period. Any undistributed tokens after the 156 weeks will be burned, to ensure a fair and deflationary distribution model. Entities not performing as expected may be slashed (rules to be defined as we approach mainnet)

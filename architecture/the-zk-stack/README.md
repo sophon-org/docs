@@ -9,5 +9,5 @@ The ZK Stack is a modular, open-source framework designed to empower developers 
 ZK Stack unlocks:
 
 * **Enhanced UX.** Native Account Abstraction enables a frictionless, one-click user experience, streamlining interactions and improving usability.
-* **Cost Compression.** The succinctness of ZK proofs significantly reduces transaction costs, making specific operations up to 1,000 times cheaper compared to other rollup platforms.
+* **High Throughput.** The efficiency of the ZK Stack integrated into our architecture enables the processing of a large volume of transactions, surpassing the performance of similar platforms.
 * **Affordability.** ZK Stack offers the option of ultra-low-cost accounts for use cases where cost efficiency is paramount.
