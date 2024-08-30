@@ -1,6 +1,8 @@
 # What is a ZK Rollup?
 
-ZK Rollups "roll up" transaction data and submit it to another chain—in this case, Ethereum. This connection to Ethereum allows the rollups to be externally verified, ensuring that the execution of transactions is done correctly and in a trustless manner. The ability for rollups to act as validators for other rollups facilitates the creation of a trustless network of interconnected rollups called the ZK Chain ecosystem. The ZK Stack uses zkEVM for transaction execution, making Sophon fully compatible with Ethereum.
+Within this elastic chain ecosystem, ZK Rollups play a crucial role. They "roll up" transaction data and submit it to Ethereum, leveraging the security of the base layer while enabling scalability. This connection to Ethereum allows for external verification, ensuring trustless and correct execution of transactions.
+
+The ZK Stack, which powers this system, uses zkEVM for transaction execution. This makes the entire ecosystem fully compatible with Ethereum, allowing for seamless integration of existing smart contracts and DApps.
 
 The key components of these rollups are the **sequencer** and the **prover**.
 

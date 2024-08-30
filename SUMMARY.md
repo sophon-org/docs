@@ -7,16 +7,17 @@
 
 ## ARCHITECTURE
 
-* [The ZK Stack](architecture/the-zk-stack/README.md)
-  * [What is a ZK Rollup?](architecture/the-zk-stack/what-is-a-zk-rollup.md)
-* [Elastic Chain](architecture/elastic-chain.md)
 * [Validiums](architecture/validiums.md)
+* [The ZK Stack](architecture/the-zk-stack/README.md)
+  * [What is a ZK Chain?](architecture/the-zk-stack/what-is-a-zk-chain/README.md)
+    * [What is a ZK Rollup?](architecture/the-zk-stack/what-is-a-zk-chain/what-is-a-zk-rollup.md)
 * [Account Abstraction](architecture/account-abstraction/README.md)
   * [Unified Account Model](architecture/account-abstraction/unified-account-model.md)
   * [Smart Accounts and Paymasters](architecture/account-abstraction/smart-accounts-and-paymasters.md)
 * [Data Availability](architecture/data-availability/README.md)
   * [Avail, explained](architecture/data-availability/avail-explained.md)
   * [ZK Rooted](architecture/data-availability/zk-rooted.md)
+* [Elastic Chain](architecture/elastic-chain.md)
 
 ## Farming
 
