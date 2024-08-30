@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [INTRODUCTION](README.md)
+  * [What is Sophon?](introduction/what-is-sophon.md)
+  * [Why Sophon?](introduction/why-sophon.md)
+  * [Core Principles](introduction/core-principles.md)
 
 ## Sophon token
 
