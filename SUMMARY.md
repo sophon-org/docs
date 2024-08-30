@@ -8,6 +8,7 @@
 ## ARCHITECTURE
 
 * [Validiums](architecture/validiums.md)
+* [Elastic Chain](architecture/elastic-chain.md)
 * [The ZK Stack](architecture/the-zk-stack/README.md)
   * [What is a ZK Chain?](architecture/the-zk-stack/what-is-a-zk-chain/README.md)
     * [What is a ZK Rollup?](architecture/the-zk-stack/what-is-a-zk-rollup.md)
@@ -17,7 +18,6 @@
 * [Data Availability](architecture/data-availability/README.md)
   * [Avail, explained](architecture/data-availability/avail-explained.md)
   * [ZK Rooted](architecture/data-availability/zk-rooted.md)
-* [Elastic Chain](architecture/elastic-chain.md)
 
 ## Farming
 
