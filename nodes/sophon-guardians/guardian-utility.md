@@ -1,10 +1,4 @@
----
-description: Guadians protect Sophon
----
-
-# Sophon Guardians
-
-**Sophon Guardians**, also simply called **Guardians**, are the cornerstone of the Sophon network's operational infrastructure. The rights to operate a Sophon Node are managed through **Guardians**. These licenses are tied to the nodes purchased during the node sale. As a Guardian, you gain the capability to run a Sophon Node.
+# Guardian Utility
 
 **Short Term:**
 
@@ -20,5 +14,3 @@ description: Guadians protect Sophon
 
 * **Network Validation:** License holders can participate in network validation by running decentralized nodes or delegating their licenses. Rewards will include both SOPH tokens and network fees.
 * **Exclusive Access:** Licenses may provide early access to events, exclusive DeFi opportunities, investment syndicates, and alpha groups.
-
-####

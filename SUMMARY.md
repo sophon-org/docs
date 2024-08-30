@@ -34,8 +34,9 @@
 ## Nodes
 
 * [Overview](nodes/overview.md)
-* [Sophon Node](nodes/sophon-node.md)
-* [Sophon Guardians](nodes/sophon-guardians.md)
+* [Sophon Node](nodes/external-node.md)
+* [Sophon Guardians](nodes/sophon-guardians/README.md)
+  * [Guardian Utility](nodes/sophon-guardians/guardian-utility.md)
 * [Node Types and Rewards](nodes/node-types-and-rewards.md)
 * [Node sale](nodes/node-sale/README.md)
   * [Sale instructions](nodes/node-sale/sale-instructions/README.md)
