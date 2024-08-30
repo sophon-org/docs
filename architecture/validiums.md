@@ -1,6 +1,8 @@
-# Validiums
+---
+description: Sophon is a validium L2.
+---
 
-Sophon is a validium L2.
+# Validiums
 
 Validiums serve as scaling solutions utilizing off-chain data availability and computation to enhance throughput through off-chain transaction processing. Their security is upheld by issuing validity proofs on Ethereum, which guarantees accurate state transitions, thereby ensuring the overall integrity of the Validium chain.
 

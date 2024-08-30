@@ -5,10 +5,18 @@
   * [Why Sophon?](introduction/why-sophon.md)
   * [Core Principles](introduction/core-principles.md)
 
-## Sophon token
+## ARCHITECTURE
 
-* [$SOPH](sophon-token/usdsoph.md)
-* [Token distribution](sophon-token/token-distribution.md)
+* [The ZK Stack](architecture/the-zk-stack/README.md)
+  * [What is a ZK Rollup?](architecture/the-zk-stack/what-is-a-zk-rollup.md)
+* [Elastic Chain](architecture/elastic-chain.md)
+* [Validiums](architecture/validiums.md)
+* [Account Abstraction](architecture/account-abstraction/README.md)
+  * [Unified Account Model](architecture/account-abstraction/unified-account-model.md)
+  * [Smart Accounts and Paymasters](architecture/account-abstraction/smart-accounts-and-paymasters.md)
+* [Data Availability](architecture/data-availability/README.md)
+  * [Avail, explained](architecture/data-availability/avail-explained.md)
+  * [ZK Rooted](architecture/data-availability/zk-rooted.md)
 
 ## Farming
 
@@ -25,20 +33,25 @@
 
 ## Nodes
 
-* [Introduction](nodes/introduction.md)
+* [Overview](nodes/overview.md)
 * [External node](nodes/external-node.md)
+* [Node License Utility](nodes/node-license-utility.md)
+* [Node Types and Rewards](nodes/node-types-and-rewards.md)
 * [Node sale](nodes/node-sale/README.md)
   * [Sale instructions](nodes/node-sale/sale-instructions/README.md)
-    * [Purchase directly on zkSync](nodes/node-sale/sale-instructions/purchase-directly-on-zksync.md)
-  * [zkSync bridging instructions](nodes/node-sale/zksync-bridging-instructions.md)
+    * [Purchase directly on ZKsync](nodes/node-sale/sale-instructions/purchase-directly-on-zksync.md)
+  * [ZKsync bridging instructions](nodes/node-sale/zksync-bridging-instructions.md)
   * [Contracts](nodes/node-sale/contracts.md)
   * [Impossible Finance information](https://blog.impossible.finance/introducing-the-sophon-node-sale/)
 
-## ZK Stack
+## Sophon token
 
-* [What is ZK Stack?](zk-stack/what-is-zk-stack.md)
-* [Elastic Chains](zk-stack/elastic-chains.md)
-* [Validiums](zk-stack/validiums.md)
+* [$SOPH](sophon-token/usdsoph.md)
+* [Token distribution](sophon-token/token-distribution.md)
+
+***
+
+* [ECOSYSTEM](ecosystem.md)
 
 ## Links
 

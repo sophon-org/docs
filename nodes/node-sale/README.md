@@ -11,6 +11,10 @@
 * Claiming rewards for operating a node on Sophon will trigger a 3 month lock-up period for those rewards
 * The node sale is subject to the [node sale terms and conditions](https://farm.sophon.xyz/node-sale-terms)
 * KYC is required to purchase and receive a node
+* Licenses will be ERC721 tokens on the Sophon network
+* Licenses cannot be transferred for 365 days after deployment
+* A claiming process will be available through [sophon.xyz](https://farm.sophon.xyz/)
+* Users can delegate licenses to the main node (sequencer) and receive rewards
 
 {% content-ref url="sale-instructions/" %}
 [sale-instructions](sale-instructions/)
