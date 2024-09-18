@@ -32,19 +32,19 @@
   * [Calculating boosts](farming/boosts/calculating-boosts.md)
 * [Withdrawals](farming/withdrawals.md)
 
-## Nodes
+## Sophon Guardians & Nodes
 
-* [Overview](nodes/overview.md)
-* [Sophon Node](nodes/external-node.md)
-* [Sophon Guardians](nodes/sophon-guardians/README.md)
-  * [Guardian Utility](nodes/sophon-guardians/guardian-utility.md)
-* [Node Types and Rewards](nodes/node-types-and-rewards.md)
-* [Node sale](nodes/node-sale/README.md)
-  * [Sale instructions](nodes/node-sale/sale-instructions/README.md)
-    * [Purchase directly on ZKsync](nodes/node-sale/sale-instructions/purchase-directly-on-zksync.md)
-  * [ZKsync bridging instructions](nodes/node-sale/zksync-bridging-instructions.md)
-  * [Contracts](nodes/node-sale/contracts.md)
+* [Overview](sophon-guardians-and-nodes/overview.md)
+* [Sophon Guardian Membership](sophon-guardians-and-nodes/sophon-guardian-membership.md)
+* [Sophon Nodes](sophon-guardians-and-nodes/sophon-nodes.md)
+* [Node Rewards](sophon-guardians-and-nodes/node-rewards.md)
+* [Node Sale](sophon-guardians-and-nodes/node-sale/README.md)
+  * [Sale instructions](sophon-guardians-and-nodes/node-sale/sale-instructions/README.md)
+    * [Purchase directly on ZKsync](sophon-guardians-and-nodes/node-sale/sale-instructions/purchase-directly-on-zksync.md)
+  * [ZKsync bridging instructions](sophon-guardians-and-nodes/node-sale/zksync-bridging-instructions.md)
+  * [Contracts](sophon-guardians-and-nodes/node-sale/contracts.md)
   * [Impossible Finance information](https://blog.impossible.finance/introducing-the-sophon-node-sale/)
+* [Guardian Utility](sophon-guardians-and-nodes/guardian-utility.md)
 
 ## Sophon token
 

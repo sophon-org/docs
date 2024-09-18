@@ -2,6 +2,7 @@
 description: >-
   The Sophon node sale is hosted by Impossible Finance. Below you can find
   instructions on how to participate.
+hidden: true
 ---
 
 # Sale instructions

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Guardian Utility
 
 **Short Term:**

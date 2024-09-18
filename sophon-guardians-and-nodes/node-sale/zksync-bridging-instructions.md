@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ZKsync bridging instructions
 
 The Sophon node sale takes place on ZKsync with WETH as its purchase token. Therefore, you need to have WETH as your desired currency on the ZKsync network. There are multiple routes you may take, but beneath is a tutorial to illustrate the required steps.
