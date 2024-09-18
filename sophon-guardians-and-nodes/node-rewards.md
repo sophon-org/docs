@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Node Rewards
 
 Sophon allocates 20% of SOPH tokens as rewards for node license owners. This allocation is divided into three categories:

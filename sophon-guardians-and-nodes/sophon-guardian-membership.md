@@ -1,5 +1,6 @@
 ---
 description: The Guardian Membership is an NFT that represents the node licenses.
+hidden: true
 ---
 
 # Sophon Guardian Membership
