@@ -60,6 +60,7 @@
 * [Security & Audits](links/security-and-audits.md)
 * [Twitter](https://twitter.com/sophon)
 * [Website](https://sophon.xyz/)
+* [Community](links/community.md)
 
 ## Developer docs
 
