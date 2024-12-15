@@ -1,15 +1,20 @@
 ---
-description: >-
-  Sophon becomes what you create. That's why we're excited to endorse
-  community-operated channels and accounts. These platforms are managed by
-  passionate community members.
+description: Sophon’s official community channels and accounts.
 ---
 
 # Community
 
-Please be aware of an increase in scam channels – the only officially endorsed community channels are Sophon Hub ('sophonhub'). Official links are below:
+**Official channels:**
 
-* Discord: [https://discord.com/invite/sophonhub](https://discord.com/invite/sophonhub)
-* Telegram: [https://t.me/SophonHub](https://t.me/SophonHub)
+* Sophon on X: [https://x.com/sophon](https://x.com/sophon)
+* Sophon Hub Discord: [https://discord.com/invite/sophonhub](https://discord.com/invite/sophonhub)
+* Sophon Hub Telegram: [https://t.me/SophonHub](https://t.me/SophonHub)
 
-_Note: Sophon does not manage any ‘official’ Discord or Telegram accounts. For instance, the handle ‘discord(dot)gg/sophon’ is a scam. Stay cautious!_
+**Community-operated accounts:**
+
+* Sophon Asia on X: [https://x.com/Sophon\_Asia](https://x.com/Sophon_Asia)
+* Sophon CIS on X: [https://x.com/sophon\_cis](https://x.com/sophon_cis)
+
+**Warning:** Beware of scams and impersonators. Only the links listed above are official Sophon community channels. The handle 'discord(dot)gg/sophon' is a scam.
+
+For your safety, always verify you're speaking with a legitimate Sophon team member by visiting [https://verify.sophon.xyz](https://verify.sophon.xyz). Stay vigilant!

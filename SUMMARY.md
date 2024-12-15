@@ -3,66 +3,65 @@
 * [INTRODUCTION](README.md)
   * [What is Sophon?](introduction/what-is-sophon.md)
   * [Why Sophon?](introduction/why-sophon.md)
-  * [Core Principles](introduction/core-principles.md)
+  * [Sophon Network Details](introduction/sophon-network-details.md)
+  * [Sophon Token - $SOPH](introduction/sophon-token-usdsoph/README.md)
+    * [Token Distribution](introduction/sophon-token-usdsoph/token-distribution.md)
 
-## ARCHITECTURE
+## Building and interacting
 
-* [Validiums](architecture/validiums.md)
-* [Elastic Chain](architecture/elastic-chain.md)
-* [The ZK Stack](architecture/the-zk-stack/README.md)
-  * [What is a ZK Chain?](architecture/the-zk-stack/what-is-a-zk-chain/README.md)
-    * [What is a ZK Rollup?](architecture/the-zk-stack/what-is-a-zk-rollup.md)
-* [Account Abstraction](architecture/account-abstraction/README.md)
-  * [Unified Account Model](architecture/account-abstraction/unified-account-model.md)
-  * [Smart Accounts and Paymasters](architecture/account-abstraction/smart-accounts-and-paymasters.md)
-* [Data Availability](architecture/data-availability/README.md)
-  * [Avail, explained](architecture/data-availability/avail-explained.md)
-  * [ZK Rooted](architecture/data-availability/zk-rooted.md)
+* [Getting started](building-and-interacting/getting-started.md)
+* [Launching on Sophon](building-and-interacting/launching-on-sophon.md)
+* [Chain Information](building-and-interacting/chain-information/README.md)
+  * [Contracts](building-and-interacting/chain-information/contracts.md)
+* [Tooling](building-and-interacting/tooling/README.md)
+  * [ZSync CLI](building-and-interacting/tooling/zsync-cli.md)
+  * [Hardhat](building-and-interacting/tooling/hardhat.md)
+  * [Foundry](building-and-interacting/tooling/foundry.md)
+  * [SDKs](building-and-interacting/tooling/sdks.md)
+* [Infra Partners](building-and-interacting/infra-partners.md)
 
-## Farming
+## SOPHON NETWORK
 
-* [Introduction](farming/introduction.md)
-* [Active pools](farming/active-pools.md)
-* [The farming cycle](farming/the-farming-cycle.md)
-* [Sophon points (SP) calculations](farming/sophon-points-sp-calculations/README.md)
-  * [Tracking your SP](farming/sophon-points-sp-calculations/tracking-your-sp.md)
-  * [SP to $SOPH conversion](farming/sophon-points-sp-calculations/sp-to-usdsoph-conversion.md)
-* [Boosts](farming/boosts/README.md)
-  * [Activating boosts](farming/boosts/activating-boosts.md)
-  * [Calculating boosts](farming/boosts/calculating-boosts.md)
-* [Withdrawals](farming/withdrawals.md)
+* [Architecture](sophon-network/architecture.md)
+* [ZK Stack and the Elastic chain](sophon-network/zk-stack-and-the-elastic-chain.md)
+* [Features](sophon-network/features.md)
 
-## Sophon Guardians & Nodes
+## SOPHON GUARDIANS & NODES
 
 * [Overview](sophon-guardians-and-nodes/overview.md)
 * [Sophon Guardian Membership](sophon-guardians-and-nodes/sophon-guardian-membership.md)
 * [Sophon Nodes](sophon-guardians-and-nodes/sophon-nodes.md)
 * [Node Rewards](sophon-guardians-and-nodes/node-rewards.md)
 * [Node Sale](sophon-guardians-and-nodes/node-sale/README.md)
-  * [Sale instructions](sophon-guardians-and-nodes/node-sale/sale-instructions/README.md)
-    * [Purchase directly on ZKsync](sophon-guardians-and-nodes/node-sale/sale-instructions/purchase-directly-on-zksync.md)
-  * [ZKsync bridging instructions](sophon-guardians-and-nodes/node-sale/zksync-bridging-instructions.md)
   * [Contracts](sophon-guardians-and-nodes/node-sale/contracts.md)
-  * [Impossible Finance information](https://blog.impossible.finance/introducing-the-sophon-node-sale/)
-* [Guardian Utility](sophon-guardians-and-nodes/guardian-utility.md)
+  * [Impossible Finance Information](https://blog.impossible.finance/introducing-the-sophon-node-sale/)
 
-## Sophon token
+## FARMING
 
-* [$SOPH](sophon-token/usdsoph.md)
-* [Token distribution](sophon-token/token-distribution.md)
+* [The farming cycle](farming/the-farming-cycle.md)
+* [Introduction](farming/introduction.md)
+* [Active pools](farming/active-pools.md)
+* [Sophon points (SP) calculations](farming/sophon-points-sp-calculations/README.md)
+  * [SP to $SOPH conversion](farming/sophon-points-sp-calculations/sp-to-usdsoph-conversion.md)
+  * [Tracking your SP](farming/sophon-points-sp-calculations/tracking-your-sp.md)
+* [Boosts](farming/boosts/README.md)
+  * [Activating boosts](farming/boosts/activating-boosts.md)
+  * [Calculating boosts](farming/boosts/calculating-boosts.md)
+* [Withdrawals](farming/withdrawals.md)
 
-***
+## ECOSYSTEM
 
-* [ECOSYSTEM](ecosystem.md)
+* [Page 1](ecosystem/page-1.md)
 
-## Links
+## LINKS
 
 * [Security & Audits](links/security-and-audits.md)
-* [Twitter](https://twitter.com/sophon)
-* [Website](https://sophon.xyz/)
+* [X](https://x.com/sophon)
+* [Farming Portal](https://farm.sophon.xyz/)
 * [Community](links/community.md)
+* [Brand Assets](https://sophon-labs.notion.site/Sophon-Brand-Assets-Guidelines-External-10a421ad4a7180c49478fb97ec1aa982?pvs=4)
 
-## Developer docs
+## Developer Docs
 
 * [Farming contracts](https://github.com/sophon-org/farming-contracts)
-* [Sherlock contest](https://audits.sherlock.xyz/contests/376)
+* [Sherlock contest](https://audits.sherlock.xyz/contests/376?filter=questions)

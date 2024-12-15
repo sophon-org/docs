@@ -1,4 +1,4 @@
-# Activating Boosts
+# Activating boosts
 
 Upon depositing to a pool, a user can boost their portion or the entirety of their deposit. Boosting is a strategic decision for increasing the total SP a user can earn:
 

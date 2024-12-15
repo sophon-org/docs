@@ -1,9 +1,21 @@
 ---
-description: Welcome to the official documentation for the Sophon experience.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # INTRODUCTION
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+Welcome to the official documentation for the Sophon experience.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Let's get started.&#x20;

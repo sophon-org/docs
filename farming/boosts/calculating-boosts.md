@@ -1,8 +1,8 @@
 # Calculating boosts
 
-1. **Boost multiplier:** The current booster multiplier is 5x, meaning your boosted assets earn Sophon Points at five times the rate.
-2. **Boosted amount:** Your boosted amount is multiplied by the booster multiplier to calculate your total boosted Sophon Points.
-3. **Total earning power:** Your total earning potential is the sum of your unboosted deposit and your boosted amount.
+* **Boost multiplier:** The current booster multiplier is 5x, meaning your boosted assets earn Sophon Points at five times the rate.
+* **Boosted amount:** Your boosted amount is multiplied by the booster multiplier to calculate your total boosted Sophon Points.
+* **Total earning power:** Your total earning potential is the sum of your unboosted deposit and your boosted amount.
 
 ***
 
